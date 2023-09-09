@@ -30,6 +30,14 @@ This repository contains resources and code examples for the Python Workshop, de
    - Follow the workshop materials, tutorials, and code examples.
    - Experiment with the code, modify it, and see the results.
 
+## Topics Covered
+- [x] Basics (data types, strings)
+- [] Lists, Dictionaries, Sets & Tuples
+- [] Conditional Statements
+- [] Loops 
+- [] Functions 
+- [] Loops 
+
 ## Workshop Structure
 
 The repository is organized into the following sections:
