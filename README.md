@@ -36,7 +36,10 @@ This repository contains resources and code examples for the Python Workshop, de
 - [ ] Conditional Statements
 - [ ] Loops 
 - [ ] Functions 
-- [ ] Loops 
+- [ ] Comprehensions 
+- [ ] File I/O 
+- [ ] Exception Handling 
+- [ ] Classes 
 
 ## Workshop Structure
 
