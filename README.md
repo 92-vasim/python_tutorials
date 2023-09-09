@@ -32,11 +32,11 @@ This repository contains resources and code examples for the Python Workshop, de
 
 ## Topics Covered
 - [x] Basics (data types, strings)
-- [] Lists, Dictionaries, Sets & Tuples
-- [] Conditional Statements
-- [] Loops 
-- [] Functions 
-- [] Loops 
+- [ ] Lists, Dictionaries, Sets & Tuples
+- [ ] Conditional Statements
+- [ ] Loops 
+- [ ] Functions 
+- [ ] Loops 
 
 ## Workshop Structure
 
